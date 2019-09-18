@@ -4,6 +4,7 @@ This repo hosts all my conference talks, current CfSs, and speaker bio!
 ## Previous talks  
  * Power User Days Belgium September 2019 Edition  
  * Power BI Gebruikersdag 2019  
+ * Flemish Power BI User Group  
 
 ## Current CfSs that could be delivered  
  * Query Folding in Power BI  
