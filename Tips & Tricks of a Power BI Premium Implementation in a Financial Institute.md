@@ -6,3 +6,12 @@ Fast forward 6 months, there is more traction within the business, trainings are
 Because an app workspace creates an Office 365 group with a lot of artifacts behind the scenes, the creation workflow is controlled by IT. Unfortunately this inhibits the end users.  
 We require more governance, not to further bother the users, but it is essential to stay in control. Responsibilities need to be better aligned between IT and the business. And what to do with Power BI Premium?  
 Throughout this session we take you along on our Power BI journey, with tips, tricks, do's and don'ts during the implementation of Power BI (Premium) at a financial institute in the Netherlands.  
+
+## Delivered at
+* Power BI User Day Netherlands 2019 (Dutch)  
+  * link
+* Power User Days Belgium September 2019 edition
+  * link
+* SQL Saturday Prague
+  * link
+  
