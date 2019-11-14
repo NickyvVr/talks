@@ -8,10 +8,11 @@ We require more governance, not to further bother the users, but it is essential
 Throughout this session we take you along on our Power BI journey, with tips, tricks, do's and don'ts during the implementation of Power BI (Premium) at a financial institute in the Netherlands.  
 
 ## Delivered at
-* Power BI User Day Netherlands 2019 (Dutch)  
-  * link
-* Power User Days Belgium September 2019 edition
-  * link
-* SQL Saturday Prague
-  * link
-  
+* Power Platform World Tour Dublin, 30 October 2019
+  * [PP WT Dublin 2019 - Tips & Tricks of a Power BI Premium Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/PP%20WT%20Dublin%202019%20-%20Tips%20%26%20Tricks%20of%20a%20Power%20BI%20Premium%20Implementation%20in%20a%20Financial%20Institute.pdf)
+* SQL Saturday Prague, 21 September 2019
+  * [SQL Saturday Prague 2019 - Power BI (Premium) Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/SQL%20Saturday%20Prague%202019%20-%20Power%20BI%20(Premium)%20Implementation%20in%20a%20Financial%20Institute.pdf)
+* Power User Days Belgium, 14 September 2019
+  * [Power User Days Belgium September 2019 - Tips & Tricks of a Power BI (Premium) Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Power%20User%20Days%20Belgium%20September%202019%20-%20Tips%20%26%20Tricks%20of%20a%20Power%20BI%20(Premium)%20Implementation%20in%20a%20Financial%20Institute.pdf)
+* Power BI Gebruikersdag Netherlands (Dutch), 30 March 2019  
+  * [Power BI Gebruikersdag 2019 - Power BI (Premium) Implementatie in een Financiele Instelling.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Power%20BI%20Gebruikersdag%202019%20-%20Power%20BI%20(Premium)%20Implementatie%20in%20een%20Financiele%20Instelling.pdf)
