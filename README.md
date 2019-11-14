@@ -2,6 +2,7 @@
 This repo hosts all my conference talks, current CfSs, and speaker bio!
 
 ## Previous talks  
+ * Power Platform World Tour Dublin 2019  
  * dataMinds Connect 2019  
  * Power User Days Belgium September 2019 Edition  
  * Power BI Gebruikersdag 2019  
