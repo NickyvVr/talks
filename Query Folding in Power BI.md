@@ -5,5 +5,5 @@ Attend this session to learn how to ensure that you get all the performance impr
 As an added bonus, you will also learn in which cases query folding is not your best friend.
 
 ## Delivered at
-* dataMinds Connect 2019  
+* dataMinds Connect 2019, 8 October 2019  
   * [Query Folding in Power BI - dataMinds Connect 2019 - Nicky van Vroenhoven.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Query%20Folding%20in%20Power%20BI%20-%20dataMinds%20Connect%202019%20-%20Nicky%20van%20Vroenhoven.pdf)
