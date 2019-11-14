@@ -4,11 +4,13 @@ This repo hosts all my conference talks, current CfSs, and speaker bio!
 Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree/master/slides).
 
 ## Previous talks  
- * Power Platform World Tour Dublin 2019  
- * dataMinds Connect 2019  
- * Power User Days Belgium September 2019 Edition  
- * Power BI Gebruikersdag 2019  
- * Flemish Power BI User Group June 2018  
+ * Dublin Power BI User Group, 31 October 2019
+ * Power Platform World Tour Dublin, 30 October 2019  
+ * dataMinds Connect, 8 October 2019  
+ * SQL Saturday Prague, 21 September 2019
+ * Power User Days Belgium, 14 September 2019  
+ * Power BI Gebruikersdag, 30 March 2019  
+ * Flemish Power BI User Group, June 2018  
  
 ## Current CfPs that could be delivered  
  * [Query Folding in Power BI](https://github.com/NickyvVr/talks/blob/master/Query%20Folding%20in%20Power%20BI.md)  
