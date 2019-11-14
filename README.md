@@ -1,6 +1,8 @@
 # Talks Directory
 This repo hosts all my conference talks, current CfSs, and speaker bio!
 
+Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree/master/slides).
+
 ## Previous talks  
  * Power Platform World Tour Dublin 2019  
  * dataMinds Connect 2019  
