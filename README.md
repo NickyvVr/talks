@@ -19,5 +19,5 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * [A Form, a Flow and a Streaming Dataset Walk Into a Bar](https://github.com/NickyvVr/talks/blob/master/A%20Form%2C%20a%20Flow%20and%20a%20Streaming%20Dataset%20Walk%20Into%20a%20Bar.md)
 
 ## Speaker bio  
-Nicky van Vroenhoven is a BI professional focused at the Microsoft stack. He mainly works with SSIS, Biml, T-SQL and Power BI. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Lead BI Developer at the DWH team at Van Lanschot Kempen. He is developing the DWH and also managing the Power BI Premium capacity.  
+Nicky van Vroenhoven is a BI professional focused at the Microsoft stack. He mainly works with SSIS, Biml, T-SQL and Power BI. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Lead Expert Data Management at the DWH team at Van Lanschot Kempen. He is developing the DWH and also managing the Power BI Premium capacity.  
 In addition he enjoys tweeting and blogging about topics like Power BI, DAX and SQL Server at nickyvv.com.
