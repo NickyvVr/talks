@@ -4,6 +4,7 @@ This repo hosts all my conference talks, current CfPs, and speaker bio!
 Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree/master/slides).
 
 ## Previous talks  
+ * SQL Saturday Belgium, 7 March 2020
  * Dublin Power BI User Group, 31 October 2019
  * Power Platform World Tour Dublin, 30 October 2019  
  * dataMinds Connect, 8 October 2019  
