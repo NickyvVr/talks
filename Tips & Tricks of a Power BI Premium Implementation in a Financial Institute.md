@@ -9,6 +9,7 @@ Throughout this session we take you along on our Power BI journey, with tips, tr
 
 ## Delivered at
 * SQL Saturday Belgium, 7 March 2020
+  * [SQL Saturday Belgium 2020 - Tips & Tricks of a Power BI (Premium) Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/SQL%20Saturday%20Belgium%202020%20-%20Tips%20%26%20Tricks%20of%20a%20Power%20BI%20(Premium)%20Implementation%20in%20a%20Financial%20Institute.pdf)
 * Power Platform World Tour Dublin, 30 October 2019
   * [PP WT Dublin 2019 - Tips & Tricks of a Power BI Premium Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/PP%20WT%20Dublin%202019%20-%20Tips%20%26%20Tricks%20of%20a%20Power%20BI%20Premium%20Implementation%20in%20a%20Financial%20Institute.pdf)
 * SQL Saturday Prague, 21 September 2019
