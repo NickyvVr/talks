@@ -4,6 +4,7 @@ This repo hosts all my conference talks, current CfPs, and speaker bio!
 Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree/master/slides).
 
 ## Previous talks  
+ * dataMinds User Group, 18 May 2020
  * DataWeekender Europe, 2 May 2020
  * SQL Saturday Belgium, 7 March 2020
  * Dublin Power BI User Group, 31 October 2019
@@ -22,4 +23,4 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
 
 ## Speaker bio  
 Nicky van Vroenhoven is a BI professional focused at the Microsoft stack. He mainly works with SSIS, Biml, T-SQL and Power BI. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Lead Expert Data Management at the DWH team at Van Lanschot Kempen. He is developing the DWH and also managing the Power BI Premium capacity.  
-In addition he enjoys tweeting and blogging about topics like Power BI, DAX and SQL Server at nickyvv.com.
+Nicky has spoken at several User Groups, SQL Saturday Events, and the Power BI World Tour and is the co-founder of the Power BI Days Netherlands. In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.
