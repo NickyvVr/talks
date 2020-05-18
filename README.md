@@ -23,4 +23,4 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
 
 ## Speaker bio  
 Nicky van Vroenhoven is a BI professional focused at the Microsoft stack. He mainly works with SSIS, Biml, T-SQL and Power BI. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Lead Expert Data Management at the DWH team at Van Lanschot Kempen. He is developing the DWH and also managing the Power BI Premium capacity.  
-Nicky has spoken at several User Groups, SQL Saturday Events, and the Power BI World Tour and is the co-founder of the [Power BI Days Netherlands](https://twitter.com/PBIDaysNL). In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.
+Nicky has spoken at several User Groups, SQL Saturday Events, and the Power BI World Tour and is the co-founder of the [Power BI Days Netherlands](https://twitter.com/PowerBIDaysNL). In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.
