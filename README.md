@@ -6,6 +6,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
 ## Previous talks  
  * Bangalore Power BI Days, 19 May 2020
  * dataMinds User Group, 18 May 2020
+ * Visser & Van Baars Webinar: May 7 2020  
  * DataWeekender Europe, 2 May 2020
  * SQL Saturday Belgium, 7 March 2020
  * Dublin Power BI User Group, 31 October 2019
