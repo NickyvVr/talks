@@ -1,4 +1,4 @@
-# Tips & Tricks of a Power BI Premium Implementation in a Financial Institute  
+# Tips & Tricks of a Large Scale Power BI Premium Implementation
 For this session a basic knowledge of Power BI is assumed, there is no deep technical knowledge necessary.  
 Attendees will walk away with guidelines and practical tips from a real-world implementation of Power BI (Premium) with 750+ users.  
 Back to September 2016: Power BI is new, shiny and hot. It is the tool of the moment, so people cannot wait to get their hands on it.  
