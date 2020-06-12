@@ -11,6 +11,5 @@ Join this session to see how to build this solution from scratch!
 
 ## Delivered at:
 * Milan PUG, 11 June 2020  
-  * [PUG Milan June 2020 - Power Platform BT - Create a Scoring App with a Live Dashboard.pdf]
-  (https://github.com/NickyvVr/talks/blob/master/slides/PUG%20Milan%20June%202020%20-%20Power%20Platform%20BT%20-%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.pdf)
+  * [PUG Milan June 2020 - Power Platform BT - Create a Scoring App with a Live Dashboard.pdf]  (https://github.com/NickyvVr/talks/blob/master/slides/PUG%20Milan%20June%202020%20-%20Power%20Platform%20BT%20-%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.pdf)
   
