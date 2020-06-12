@@ -8,6 +8,8 @@ We require more governance, not to further bother the users, but it is essential
 Throughout this session we take you along on our Power BI journey, with tips, tricks, do's and don'ts during the implementation of Power BI (Premium) at a financial institute in the Netherlands.  
 
 ## Delivered at
+* Milan Power BI UG, 11 June 2020
+  * [Visser & Van Baars May 2020 - Power BI (Premium) Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Visser%20%26%20Van%20Baars%20May%202020%20-%20Power%20BI%20(Premium)%20Implementation%20in%20a%20Financial%20Institute.pdf)
 * SQL Saturday Belgium, 7 March 2020
   * [SQL Saturday Belgium 2020 - Tips & Tricks of a Power BI (Premium) Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/SQL%20Saturday%20Belgium%202020%20-%20Tips%20%26%20Tricks%20of%20a%20Power%20BI%20(Premium)%20Implementation%20in%20a%20Financial%20Institute.pdf)
 * Power Platform World Tour Dublin, 30 October 2019
