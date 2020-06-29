@@ -10,6 +10,8 @@ And, we're going to accomplish this by using 3 of the Power Platform products: P
 Join this session to see how to build this solution from scratch!
 
 ## Delivered at:
+* Power Break (webinar), 29 June 2020
+  * [Power Break June 2020 - Power Platform BT - Create a Scoring App with a Live Dashboard.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Power%20Break%20June%202020%20-%20Power%20Platform%20BT%20-%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.pdf)
 * Milan PUG, 11 June 2020  
   * [PUG Milan June 2020 - Power Platform BT - Create a Scoring App with a Live Dashboard.pdf](https://github.com/NickyvVr/talks/blob/master/slides/PUG%20Milan%20June%202020%20-%20Power%20Platform%20BT%20-%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.pdf)
   
