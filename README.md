@@ -11,6 +11,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * NEW [Power Platform Better Together: Create a Scoring App with a Live Dashboard](https://github.com/NickyvVr/talks/blob/master/Power%20Platform%20Better%20Together:%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.md)
 
 ## Previous talks  
+ * PowerTalk LIVE at Avi Singh (webinar), 1 July 2020
  * Power Break (webinar), 29 June 2020
  * Milan Power BI UG (webinar), 11 June 2020
  * Bangalore Power BI Days (webinar), 19 May 2020
