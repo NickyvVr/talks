@@ -8,6 +8,8 @@ We require more governance, not to further bother the users, but it is essential
 Throughout this session we take you along on our Power BI journey, with tips, tricks, do's and don'ts during the implementation of Power BI (Premium) at a financial institute in the Netherlands.  
 
 ## Delivered at
+* PowerTalk LIVE at Avi Singh, 1 July 2020
+  * [TalkPowerBI LIVE July 2020 - Tips & Tricks of a Large Scale Power BI (Premium) Implementation.pdf](https://github.com/NickyvVr/talks/blob/master/slides/TalkPowerBI%20LIVE%20July%202020%20-%20Tips%20%26%20Tricks%20of%20a%20Large%20Scale%20Power%20BI%20(Premium)%20Implementation.pdf)
 * Visser & Van Baars, 7 May 2020
   * [Visser & Van Baars May 2020 - Power BI (Premium) Implementation in a Financial Institute.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Visser%20%26%20Van%20Baars%20May%202020%20-%20Power%20BI%20(Premium)%20Implementation%20in%20a%20Financial%20Institute.pdf)
 * SQL Saturday Belgium, 7 March 2020
