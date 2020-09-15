@@ -7,6 +7,7 @@ As an added bonus, you will also learn in which cases query folding is not your 
 ## Delivered at
 * Power BI Days Munich, 15 September 2020
   * [Power BI Days Munich September 2020 - Query Folding in Power BI.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Power%20BI%20Days%20Munich%20September%202020%20-%20Query%20Folding%20in%20Power%20BI.pdf)
+  * [Materials: PBIX-files](https://github.com/NickyvVr/talks/raw/master/materials/20200915%20Power%20BI%20Days%20Munich%20-%20Demo%20files.zip)
 * dataMinds User Group, 18 May 2020  
   * [dataMinds UG May 2020 - Query Folding in Power BI.pdf](https://github.com/NickyvVr/talks/blob/master/slides/dataMinds%20UG%20May%202020%20-%20Query%20Folding%20in%20Power%20BI.pdf)
 * dataMinds Connect 2019, 8 October 2019  
