@@ -5,6 +5,9 @@ Attend this session to learn how to ensure that you get all the performance impr
 As an added bonus, you will also learn in which cases query folding is not your best friend.
 
 ## Delivered at
+* SQL Saturday Croatia, 19 September 2020
+  * [SQL Saturday Croatia September 2020 - Query Folding in Power BI.pdf](https://github.com/NickyvVr/talks/blob/master/slides/SQL%20Saturday%20Croatia%20September%202020%20-%20Query%20Folding%20in%20Power%20BI.pdf)
+  * [20200919 SQL Saturday Croatia - Demo files.zip](https://github.com/NickyvVr/talks/blob/master/materials/20200919%20SQL%20Saturday%20Croatia%20-%20Demo%20files.zip)
 * Power BI Days Munich, 15 September 2020
   * [Power BI Days Munich September 2020 - Query Folding in Power BI.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Power%20BI%20Days%20Munich%20September%202020%20-%20Query%20Folding%20in%20Power%20BI.pdf)
   * [Materials: PBIX-files](https://github.com/NickyvVr/talks/raw/master/materials/20200915%20Power%20BI%20Days%20Munich%20-%20Demo%20files.zip)
