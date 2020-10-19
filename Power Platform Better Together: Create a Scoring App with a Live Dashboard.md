@@ -1,4 +1,4 @@
-# Power Platform Better Together: Create a Scoring App with a Live Dashboard
+# Power Platform Integration: Create a Scoring App with a Live Dashboard
 
 Often during a presentation or workshop, you want to have an interactive quiz.
 Maybe you've used Kahoot or any of the other platforms out there, but they rarely integrate well with our other applications. Using the Power Platform, we'll create an interactive quiz that gives you the best of all worlds.
