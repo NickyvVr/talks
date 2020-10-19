@@ -1,7 +1,7 @@
 # Talks Directory
 This repo hosts all my conference talks, current CfPs, and speaker bio!
 
-Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree/master/slides).
+Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree/master/slides), or on the specific session page.
 
 ## Current CfPs that could be delivered  
  * [Query Folding in Power BI](https://github.com/NickyvVr/talks/blob/master/Query%20Folding%20in%20Power%20BI.md)  
