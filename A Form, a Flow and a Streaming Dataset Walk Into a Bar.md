@@ -11,6 +11,8 @@ But as I work with the Power Platform suite of products I thought it was a good 
 * And finally create a Power BI report and dashboard on that dataset to get a live view of the answers of the audience.  
 
 ## Delivered at
+* MVP Lightning Talks, 21 October 2020
+  * [MVP Lightning Talks October 2020 - A Form, a Flow and a Power BI Streaming Dataset Walk Into a Bar.pdf](https://github.com/NickyvVr/talks/blob/master/slides/MVP%20Lightning%20Talks%20October%202020%20-%20A%20Form%2C%20a%20Flow%20and%20a%20Power%20BI%20Streaming%20Dataset%20Walk%20Into%20a%20Bar.pdf)
 * SQL Saturday Denmark, 26 September 2020
   * [SQL Saturday Denmark September 2020 - A Form, a Flow and a Power BI Streaming Dataset Walk Into a Bar.pdf](https://github.com/NickyvVr/talks/blob/master/slides/SQL%20Saturday%20Denmark%20September%202020%20-%20A%20Form%2C%20a%20Flow%20and%20a%20Power%20BI%20Streaming%20Dataset%20Walk%20Into%20a%20Bar.pdf)
 * Bangalore Power BI Days, 19 May 2020  
