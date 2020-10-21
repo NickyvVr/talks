@@ -11,6 +11,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * NEW [Power Platform Integration: Create a Scoring App with a Live Dashboard](https://github.com/NickyvVr/talks/blob/master/Power%20Platform%20Better%20Together:%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.md)
 
 ## Previous talks  
+ * MVP Lightning Talks (webinar), 21 October 2020
  * DataWeekender #TheSQL (webinar), 17 october 2020
  * SQL Saturday Denmark (webinar), 26 September 2020
  * SQL Saturday Croatia (webinar), 19 September 2020
