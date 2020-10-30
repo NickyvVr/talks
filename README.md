@@ -12,7 +12,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
 
 ## Previous talks  
  * MVP Lightning Talks (webinar), 21 October 2020
- * DataWeekender #TheSQL (webinar), 17 october 2020
+ * DataWeekender #TheSQL (webinar), 17 October 2020
  * SQL Saturday Denmark (webinar), 26 September 2020
  * SQL Saturday Croatia (webinar), 19 September 2020
  * Power BI Days Munich (webinar), 15 September 2020
