@@ -10,6 +10,8 @@ And, we're going to accomplish this by using 3 of the Power Platform products: P
 Join this session to see how to build this solution from scratch!
 
 ## Delivered at:
+* Denmark Power BI UG, 4 November 2020
+  * [Denmark PBI UG November 2020 - Power Platform Integration - Create a Scoring App with a Live Dashboard.pdf](https://github.com/NickyvVr/talks/blob/master/slides/Denmark%20PBI%20UG%20November%202020%20-%20Power%20Platform%20Integration%20-%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.pdf)
 * DataWeekender (webinar), 17 October 2020
   * [DataWeekender October 2020 - Power Platform BT - Create a Scoring App with a Live Dashboard.pdf](https://github.com/NickyvVr/talks/blob/master/slides/DataWeekender%20October%202020%20-%20Power%20Platform%20BT%20-%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.pdf)
 * Power Break (webinar), 29 June 2020
