@@ -8,7 +8,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * [Tips & Tricks of a Large Scale Power BI Premium Implementation](https://github.com/NickyvVr/talks/blob/master/Tips%20%26%20Tricks%20of%20a%20Large%20Scale%20Power%20BI%20Premium%20Implementation.md) 
  * [Hands-on Workshop - The Power BI Service - Workspaces & Apps](https://github.com/NickyvVr/talks/blob/master/Hands-on%20Workshop%20-%20The%20Power%20BI%20Service%20%E2%80%93%20Workspaces%20%26%20Apps.md)
  * [A Form, a Flow and a Streaming Dataset Walk Into a Bar](https://github.com/NickyvVr/talks/blob/master/A%20Form%2C%20a%20Flow%20and%20a%20Streaming%20Dataset%20Walk%20Into%20a%20Bar.md)
- * NEW [Power Platform Integration: Create a Scoring App with a Live Dashboard](https://github.com/NickyvVr/talks/blob/master/Power%20Platform%20Better%20Together:%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.md)
+ * NEW [Power Platform Integration: Create a Scoring App with a Live Dashboard](https://github.com/NickyvVr/talks/blob/master/Power%20Platform%20Integration:%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.md)
 
 ## Previous talks  
  * MVP Lightning Talks (webinar), 21 October 2020
