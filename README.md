@@ -12,6 +12,9 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * NEW [Write-back with Power Apps in Power BI]
 
 ## Previous talks  
+ * Power BI Gebruikersdag 2022, 1-2 April 2022
+ * SQLBits (webinar), 11 March 2022
+ * Global Power BI Summit Table Talk (webinar), 11 March 2022
  * Power BI Next Step (in-person!), 17 September 2021
  * Power BI Summit Table Talk (webinar), 20 April 2021
  * Microsoft Ignite Table Talk (webinar), 4 March 2021
@@ -43,5 +46,5 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * Flemish Power BI User Group, June 2018  
  
 ## Speaker bio  
-Nicky van Vroenhoven is a BI professional focused at the Microsoft stack and a Microsoft Data Platform MVP. He mainly works with Power BI, the Power Platform and T-SQL. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Lead Expert Data Management at the DWH team at Van Lanschot Kempen. He is developing the DWH and also managing the Power BI Premium capacity.  
+Nicky van Vroenhoven is a BI professional focused at the Microsoft stack and a Microsoft Data Platform MVP. He mainly works with Power BI, the Power Platform and T-SQL. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Unit Lead Power BI at Powerdobs, a small consultancy firm in the Netherlands.  
 Nicky has spoken at several User Groups, SQL Saturday Events, and the Power BI World Tour and is the co-founder of the [Power BI Days Netherlands](https://twitter.com/PowerBIDaysNL). In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.
