@@ -5,6 +5,8 @@ Attend this session to learn how to ensure that you get all the performance impr
 As an added bonus, you will also learn in which cases query folding is not your best friend.
 
 ## Delivered at
+* Seattle Modern Excel and Power BI UG (webinar), 15 June 2022
+  * [Seattle PBI UG 2022 - Query Folding in Power BI](https://github.com/NickyvVr/talks/blob/master/slides/Seattle%20PBI%20UG%202022%20-%20Query%20Folding%20in%20Power%20BI.pdf)
 * Power BI Next Step (in-person!), 17 September 2021
   * [Power BI Next Step 2021 - Query Folding in Power BI](https://github.com/NickyvVr/talks/blob/master/slides/Power%20BI%20Next%20Step%202021%20-%20Query%20Folding%20in%20Power%20BI.pdf)
 * SQL Saturday Croatia, 19 September 2020
