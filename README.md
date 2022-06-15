@@ -12,6 +12,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * NEW [Write-back with Power Apps in Power BI]
 
 ## Previous talks  
+ * Seattle Modern Excel and Power BI UG (webinar), 15 June 2022
  * Power BI Gebruikersdag 2022, 1-2 April 2022
  * SQLBits (webinar), 11 March 2022
  * Global Power BI Summit Table Talk (webinar), 11 March 2022
