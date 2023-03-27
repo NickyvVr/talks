@@ -9,15 +9,23 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * [Hands-on Workshop - The Power BI Service - Workspaces & Apps](https://github.com/NickyvVr/talks/blob/master/Hands-on%20Workshop%20-%20The%20Power%20BI%20Service%20%E2%80%93%20Workspaces%20%26%20Apps.md)
  * [A Form, a Flow and a Streaming Dataset Walk Into a Bar](https://github.com/NickyvVr/talks/blob/master/A%20Form%2C%20a%20Flow%20and%20a%20Streaming%20Dataset%20Walk%20Into%20a%20Bar.md)
  * [Power Platform Integration: Create a Scoring App with a Live Dashboard](https://github.com/NickyvVr/talks/blob/master/Power%20Platform%20Integration:%20Create%20a%20Scoring%20App%20with%20a%20Live%20Dashboard.md)
- * NEW [Write-back with Power Apps in Power BI]
+ * [Write-back with Power Apps in Power BI]
+ * NEW [A Day In The Life Of A(n Accidental) Power BI Administrator]
 
 ## Previous talks  
+ * SQLBits 2023 - 2 sessions, 17 March 2023
+ * Dutch Power BI User Day / Gebruikersdag, 11 March 2023
+ * Global Power BI Summit session (webinar), 7 March 2023
+ * Global Power BI Summit Table Talk (webinar), 6 March 2023
+ * Reid Havens' YouTube livestream, 3 February 2023
+ * Pakistan User Group (webinar), 4 November 2022
+ * New Zealand Business Applications Summit (webinar), 3 November 2022
  * Seattle Modern Excel and Power BI UG (webinar), 15 June 2022
  * Power BI Gebruikersdag 2022, 1-2 April 2022
  * SQLBits (webinar), 11 March 2022
  * Global Power BI Summit Table Talk (webinar), 11 March 2022
  * Power BI Next Step (in-person!), 17 September 2021
- * Power BI Summit Table Talk (webinar), 20 April 2021
+ * Global Power BI Summit Table Talk (webinar), 20 April 2021
  * Microsoft Ignite Table Talk (webinar), 4 March 2021
  * MVP's: Power BI Admin In A Day (webinar), 24 Februari 2021
  * Power Platform Bootcamp Austria (webinar), 19 Februari 2021
@@ -48,4 +56,4 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  
 ## Speaker bio  
 Nicky van Vroenhoven is a BI professional focused at the Microsoft stack and a Microsoft Data Platform MVP. He mainly works with Power BI, the Power Platform and T-SQL. After working 9 years in several BI-consultancy jobs in several industries and companies, he is currently working as a Unit Lead Power BI at Powerdobs, a small consultancy firm in the Netherlands.  
-Nicky has spoken at several User Groups, SQL Saturday Events, and the Power BI World Tour and is the co-founder of the [Power BI Days Netherlands](https://twitter.com/PowerBIDaysNL). In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.
+Nicky has spoken at several User Groups, SQL Saturday Events, SQLBits, and the Power BI World Tour and is the co-founder of the [Power BI Days Netherlands](https://twitter.com/PowerBIDaysNL). In addition he enjoys tweeting and blogging about topics like Power BI and Power Platform at https://nickyvv.com.
