@@ -17,7 +17,7 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * Dutch Power BI User Day / Gebruikersdag, 11 March 2023
  * Global Power BI Summit session (webinar), 7 March 2023
  * Global Power BI Summit Table Talk (webinar), 6 March 2023
- * Reid Havens' YouTube livestream, 3 February 2023
+ * Reid Havens' YouTube livestream, 3 February 2023  
  2022
  * Pakistan User Group (webinar), 4 November 2022
  * New Zealand Business Applications Summit (webinar), 3 November 2022
