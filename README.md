@@ -18,17 +18,20 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * Global Power BI Summit session (webinar), 7 March 2023
  * Global Power BI Summit Table Talk (webinar), 6 March 2023
  * Reid Havens' YouTube livestream, 3 February 2023
+ 2022
  * Pakistan User Group (webinar), 4 November 2022
  * New Zealand Business Applications Summit (webinar), 3 November 2022
  * Seattle Modern Excel and Power BI UG (webinar), 15 June 2022
  * Power BI Gebruikersdag 2022, 1-2 April 2022
  * SQLBits (webinar), 11 March 2022
  * Global Power BI Summit Table Talk (webinar), 11 March 2022
+ 2021
  * Power BI Next Step (in-person!), 17 September 2021
  * Global Power BI Summit Table Talk (webinar), 20 April 2021
  * Microsoft Ignite Table Talk (webinar), 4 March 2021
  * MVP's: Power BI Admin In A Day (webinar), 24 Februari 2021
  * Power Platform Bootcamp Austria (webinar), 19 Februari 2021
+ 2020
  * Power Platform French Summit (webinar), 20 November 2020
  * M365 Chicago (webinar), 13 November 2020
  * Denmark Power BI UG (webinar), 4 November 2020
@@ -46,12 +49,14 @@ Slides of my sessions can be found [here](https://github.com/NickyvVr/talks/tree
  * DataWeekender Europe (webinar), 2 May 2020
  * GetResponsive Live Linkedin session (webinar), May 1 2020
  * SQL Saturday Belgium, 7 March 2020
+ 2019
  * Dublin Power BI User Group, 31 October 2019
  * Power Platform World Tour Dublin, 30 October 2019  
  * dataMinds Connect, 8 October 2019  
  * SQL Saturday Prague, 21 September 2019
  * Power User Days Belgium, 14 September 2019  
- * Power BI Gebruikersdag, 30 March 2019  
+ * Power BI Gebruikersdag, 30 March 2019
+ 2018
  * Flemish Power BI User Group, June 2018  
  
 ## Speaker bio  
