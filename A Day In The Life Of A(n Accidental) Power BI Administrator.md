@@ -1,4 +1,5 @@
-# Do you know your way around Power BI Desktop, but don’t know what happens beyond it, or what has to be managed in the Service?
+# A Day In The Life Of A(n Accidental) Power BI Administrator
+Do you know your way around Power BI Desktop, but don’t know what happens beyond it, or what has to be managed in the Service?
 Do you have the privilege, as an IT Admin or Global Administrator, to “also take care of Power BI”?
 Did you just receive the responsibility for some, or even all, Power BI Administrator tasks?
 Do you also not know what the Power Platform (management) truly encompasses?
@@ -16,5 +17,5 @@ In this session, we will take a look at tasks and components that can be part of
 
 When you start applying the tips and tricks of this session, you will get a grip on your Power BI tenant and have happier Power BI users!
 
-## Deliverd at:
+## Delivered at:
  * 1
