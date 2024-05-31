@@ -1,10 +1,9 @@
 Here you can find the slides and demo PBIT-file I used in my session.
 
 In case you open Power BI Desktop while not being signed in you might see a few errors :-)
-![image](https://github.com/NickyvVr/talks/assets/16239272/92e32488-4c9c-4d10-a0fa-132ab5552d4a)
+> ![image](https://github.com/NickyvVr/talks/assets/16239272/92e32488-4c9c-4d10-a0fa-132ab5552d4a)
 
 Just sign in with your Fabric Administrator account, then go to **Transform data** > **Datasource settings**.
-
 ![image](https://github.com/NickyvVr/talks/assets/16239272/6fcb4cfa-f47b-4c36-816d-8cabe8391e14)
 
 Then click **Change Source**:
